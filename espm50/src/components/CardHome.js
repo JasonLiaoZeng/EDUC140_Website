@@ -7,7 +7,7 @@ function CardHome() {
       <h1>Introduction</h1>
       <div className ='cards__container'>
         <div className='cards__wrapper'>
-        With the innovation in battery and electric motor technology, electric vehicle has become more convenient as a choice of people’s daily transportation. In this article, I will talk about how electric vehicles can help the environment and society because of its fuel type. In comparison to the traditional gasoline fueled vehicles, electric vehicles with electricity as energy create less pollution, is cheaper to refuel, and its price of fuel is much more resistant to natural disaster. Moreover, I will talk about how the raise of electric vehicle could create positive impact in the society because of those characteristics.
+        What is the most efficient way to learn? The simplest answer is that it depends. Multimodal literacy refers to the ability to express and absorb knowledge through the use of multiple mode, as to achieving academic success, the ability to understand and utilize different mode of communication as one’s favor is an essential skill. In this essay, I will first provide my definition of multimodal literacy, then explain the advantage of multimodal literacy using my own experience as examples.
         </div>
       </div>
     </div>

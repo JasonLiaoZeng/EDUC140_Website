@@ -15,7 +15,7 @@ function Navbar() {
         <div className="navbar-container">
 
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            ESPM 50AC
+            EDUC 140AC
           </Link> 
 
           <div className="menu-icon" onClick={handleClick}>
@@ -25,12 +25,12 @@ function Navbar() {
           <ul className={click ? 'nav-menu active': 'nav-menu'}>
             <li className='nav-item'>
               <Link to='/Environment' className='nav-links' onClick={closeMobileMenu}>
-                Environmental Reason
+                About Multimodal Literacy
               </Link>
             </li>
             <li className='nav-item'>
               <Link to='/Econ' className='nav-links' onClick={closeMobileMenu}>
-                Economic Reason
+                My Multimodal Literacy Story
               </Link>
             </li>
             <li className='nav-item'>

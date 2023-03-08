@@ -5,12 +5,12 @@ function CardReference() {
   return (
     <div className='cards'>
       <h1>Word Cited</h1>
-        <div className='cards__wrapper'>Shinde, Priyanka, and Kesasanakurty Shanti Swarup. “Stackelberg Game-Based Demand Response in Multiple Utility Environments for Electric Vehicle Charging.” IET electrical systems in transportation 8.3 (2018): 167–174. Web.</div>
-        <div className='cards__wrapper'> Xi, Haoning et al. “Differentiable Road Pricing for Environment-Oriented Electric Vehicle and Gasoline Vehicle Users in the Bi-Objective Transportation Network.” Transportation letters ahead-of-print.ahead-of-print 1–15. Web.</div>
-        <div className='cards__wrapper'> Pizam, Abraham, and Julianne Pokela. “The 1979 US Gasoline Shortage and Its Impact on the Tourism Industry.” Tourism management (1982) 4.2 (1983): 94–101. Web.</div>
-        <div className='cards__wrapper'>Image of Forest and Road. https://browsecat.net/sites/default/files/4k-forest-road-hd-photography-wallpapers-41085-855-3913471.png</div>
-        <div className='cards__wrapper'>Dcbel. Video of Electric Car Charging. https://www.pexels.com/video/a-person-charging-an-electric-car-at-home-11629298/</div>
-        <div className='cards__wrapper'>Noritsu Koki. Image of Power Lines. July 11, 2019. https://unsplash.com/photos/uumeL3ZnCPM </div>
+        <div className='cards__wrapper'>“Multimodal Literacy Picture.” https://lh5.googleusercontent.com/IA0eS01vvOhbGDNvB3bPODhePBQ1Nzi8ymdWzz2ev8IBTsy73UTT4d_nuofRz3QeSdB9TbxnKjPDJqRElZN-LBVGW06ia4wG4Waa9QN8i2PogDi2SXV7IYFedvAaAITgcatoND0t. 8 March, 2023.</div>
+        <div className='cards__wrapper'> “Children Learning Material Picture.” https://luckylittlelearners.com/wp-content/uploads/2022/03/LiteracyKit-2423_Original-1024x683.jpg. 8 March, 2023.</div>
+        <div className='cards__wrapper'> “Alphabet Picture.” https://www.callcentrehelper.com/images/stories/2022/08/vocabulary-293796887-760.jpg. 8 March, 2023.</div>
+        <div className='cards__wrapper'>Vygotsky, Lev. Mind in Society. Harvard University Press, 1978. 8 March, 2023.</div>
+        <div className='cards__wrapper'>Domingo, Myrrh. "Multimodality in the Classroom." https://bcourses.berkeley.edu/courses/1522365/pages/module-5-social-learning-and-multimodality?module_item_id=16730544. 8 March, 2023.</div>
+        <div className='cards__wrapper'>"龍怎麽叫。” Youtube. https://www.youtube.com/shorts/RbWdws0ahPo. 8 March, 2023.</div>
     </div>
   );
 }
