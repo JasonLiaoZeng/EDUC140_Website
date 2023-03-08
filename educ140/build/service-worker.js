@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/espm_50_final_website/precache-manifest.e5e3b0fd09dee2b0f2e1a603fdfd0ebc.js"
+  "/educ140_website/precache-manifest.5ec8e670ebecb2cec3e1640dc4a27c13.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/espm_50_final_website/index.html", {
+workbox.routing.registerNavigationRoute("/educ140_website/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
