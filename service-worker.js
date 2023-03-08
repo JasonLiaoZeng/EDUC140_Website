@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/educ140_website/precache-manifest.5ec8e670ebecb2cec3e1640dc4a27c13.js"
+  "/educ140_website/precache-manifest.3081ff72001dea095a9160d2d1755534.js"
 );
 
 workbox.clientsClaim();
